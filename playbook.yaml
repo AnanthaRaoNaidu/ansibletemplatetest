@@ -15,7 +15,7 @@
            - update
 
        - name: Clone Git Repo
-         shell: cd /tmp && git clone https://github.com/mavrick202/dockertest1.git
+         shell: cd /tmp && git clone https://github.com/AnanthaRaoNaidu/dockertest1.git
          tags:
            - clone
 
